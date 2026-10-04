@@ -1,5 +1,6 @@
 # PCCST503 Assignment 2 - Factored Guard-Effect Embedding
-
+NAME : A K ASIF
+REGISTRATION NUMBER: TCR24CS007
 A second, independently designed solution based on finite-domain guard masks,
 assignment features, typed port masks and regression-based composition.
 The core representation never enumerates the Cartesian state space.
